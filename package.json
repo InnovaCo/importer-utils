@@ -1,0 +1,24 @@
+{
+  "name": "importer-utils",
+  "version": "1.0.0",
+  "description": "Common utility methods used in site importers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/InnovaCo/importer-utils.git"
+  },
+  "author": "Sergey Chikuyonok <serge.che@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InnovaCo/importer-utils/issues"
+  },
+  "homepage": "https://github.com/InnovaCo/importer-utils",
+  "dependencies": {
+    "async": "^0.9.0",
+    "glob-all": "^2.4.1",
+    "mkdirp": "^0.5.0"
+  }
+}
