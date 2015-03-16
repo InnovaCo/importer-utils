@@ -1,6 +1,6 @@
 {
   "name": "importer-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Common utility methods used in site importers",
   "main": "index.js",
   "scripts": {
